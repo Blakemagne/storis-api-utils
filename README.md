@@ -43,8 +43,8 @@ Ensure the system has the following dependencies installed:
 
    # API endpoint and credentials
    AUTH_URL="https://api.storis.com/api/authenticate"
-   USERNAME="your_email@example.com"
-   PASSWORD="your_password_here"
+   USERNAME="[email address]"
+   PASSWORD="[secret key]"
 
    # Call the authentication API to get a new token
    RESPONSE=$(curl -s -X POST "$AUTH_URL" \
