@@ -1,4 +1,4 @@
-# GET Product Details CLI tool (with auto auth)
+# GET Product Details CLI Tool (with auto auth)
 This setup automates the process of refreshing a Bearer token and querying product details using the Storis API.
 
 ## Overview
