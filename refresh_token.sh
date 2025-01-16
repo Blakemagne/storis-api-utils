@@ -2,8 +2,8 @@
 
 # API endpoint and credentials
 AUTH_URL="https://api.storis.com/api/authenticate"
-USERNAME="bharrison.afhs@gmail.com"
-PASSWORD="142k6yGFJ1/KtK59RNFW4dREwHiALB9f/2f4ibvnuJ8/970IYJkJ9ybziwv5EXP14Tru4lBctXh/F30/1flRJ+5WjBBbYQOk21QXeAPZ+IHXAPbx284oTbqBry8dy9dw"
+USERNAME="[email address]"
+PASSWORD="[secret key]"
 
 # Call the authentication API to get a new token
 RESPONSE=$(curl -s -X POST "$AUTH_URL" \
