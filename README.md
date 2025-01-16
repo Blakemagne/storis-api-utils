@@ -1,4 +1,4 @@
-# Product API Automation
+# STORIS API -- GET Product Details with Auth Automation
 
 This setup automates the process of refreshing a Bearer token and querying product details using the Storis API.
 
